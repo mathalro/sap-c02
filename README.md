@@ -76,6 +76,7 @@ Durable, Reliable, Highly-Available and cost-effective object storage database.
 * Versioning
 * Cross-Region Replication
 * Storage Classes
+* Storage Lens
 
 ### EC2
 
@@ -148,3 +149,60 @@ Private Network that you define on AWS and create resources in it.
 * Peering
 
 ### RDS
+
+Distributed Relational Database Service
+
+* High Availability
+* Read Replicas
+
+### Dynamo DB
+
+Fully managed NoSQL database service
+
+### Aurora
+
+Fully managed relational database engine, compatible with MySQL and PostgreSQL
+
+### Redshift
+
+Fully managed petabyte-scale data warehousing service
+
+* Cluster
+* Nodes
+* Snapshots
+
+### Route 53
+
+--------
+--------
+--------
+
+# AWS Solutions Architect Associate - Concepts
+
+## Compute
+
+## Storate
+
+## Security, Identity and Compliance
+
+## Database
+
+## Machine Learning
+
+## Management and Governance
+
+## Networking & Content Delivery
+
+## Analytics
+
+## Application Integration
+
+## Containers
+
+# Domain 1 - Design Solutions for Oganizational Complexity
+
+# Domain 2 - Design for New Solutions
+
+# Domain 3 - Continuous Improvement for Existing Solutions
+
+# Domain 4 - Accelarate Workload Migration and Modernization
